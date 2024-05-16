@@ -49,6 +49,6 @@ console.log(`${mpg28} total gallons of fuel required`);
 console.log(`${mpg30} total gallons of fuel required `);
 console.log(`only two out of three options work with your budget - 55mph, with 30 mpg. And 60mph, with 28 mpg.`);
  
-//solution
+//solution - end of assignment */
 console.log(`The best option would be 55 miles per hour at 30mpg`);
 
